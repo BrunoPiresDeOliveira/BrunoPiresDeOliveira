@@ -1,16 +1,23 @@
-### Hi there 👋
+# Bruno Pires de Oliveira
 
-<!--
-**BrunoPiresDeOliveira/BrunoPiresDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/bruno-pires-oliveira/)
 
-Here are some ideas to get you started:
+## 🖖 Fala dev! 🖖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente participo do bootcamp Launchbase da rocketseat!
+
+## 📑 Conhecimentos:
+<p align="center">
+<img src="assets/html5.svg" width="48"/>
+
+<img src="assets/CSS3.svg" width="48"/>
+
+<img src="assets/javascript.svg" width="48"/>
+
+<img src="assets/node.svg" width="48"/>
+
+<img src="assets/git.svg" width="48"/>
+</p>
+
+## 🤗 Sobre mim:
+Moro em São Paulo - SP, sou um estudante de Sistemas de Informação na Faculdade Impacta estou focado em desenvolvimento WEB.
