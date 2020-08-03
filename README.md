@@ -10,7 +10,7 @@
 <p align="center">
 <img src="assets/html5.svg" width="48"/>
 
-<img src="assets/CSS3.svg" width="48"/>
+<img src="assets/css3.svg" width="48"/>
 
 <img src="assets/javascript.svg" width="48"/>
 
