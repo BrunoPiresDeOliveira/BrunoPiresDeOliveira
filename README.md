@@ -8,15 +8,15 @@
 
 ## 📑 Conhecimentos:
 <p align="center">
-<img src="assets/html5.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/html5.svg" width="48"/>
 
-<img src="assets/css3.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/css3.svg" width="48"/>
 
-<img src="assets/javascript.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/javascript.svg" width="48"/>
 
-<img src="assets/node.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/node.svg" width="48"/>
 
-<img src="assets/git.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/git.svg" width="48"/>
 </p>
 
 ## 🤗 Sobre mim:
