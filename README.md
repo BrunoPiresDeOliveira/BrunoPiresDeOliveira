@@ -20,4 +20,4 @@
 </p>
 
 ## 🤗 Sobre mim:
-Moro em São Paulo - SP, sou um estudante de Sistemas de Informação na Faculdade Impacta estou focado em desenvolvimento WEB.
+Moro em São Paulo, sou um estudante de Sistemas de Informação na Faculdade Impacta estou focado em desenvolvimento WEB.
