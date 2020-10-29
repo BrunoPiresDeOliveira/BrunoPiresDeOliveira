@@ -16,8 +16,9 @@
 
 <img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/node.svg" width="48"/>
 
-<img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/git.svg" width="48"/>
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="48"/>
+
 </p>
 
 ## 🤗 Sobre mim:
-Moro em São Paulo, sou um estudante de Sistemas de Informação na Faculdade Impacta estou focado em desenvolvimento WEB.
+Moro em São Paulo, sou um estudante de Sistemas de Informação na Faculdade Impacta, estou focado em desenvolvimento WEB.
