@@ -4,7 +4,7 @@
 
 ## 🖖 Fala dev! 🖖
 
-🚀 Atualmente participo do bootcamp Launchbase da rocketseat!
+🚀 Atualmente participo do bootcamp Ignite da rocketseat!
 
 ## 📑 Conhecimentos:
 <p align="center">
@@ -21,4 +21,4 @@
 </p>
 
 ## 🤗 Sobre mim:
-Moro em São Paulo, sou um estudante de Sistemas de Informação na Faculdade Impacta, estou focado em desenvolvimento WEB.
+Moro em São Paulo, sou um estudante de Sistemas de Informação na Faculdade Impacta, sempre buscando novos desafios e tecnologias.
