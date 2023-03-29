@@ -4,8 +4,6 @@
 
 ## 🖖 Fala dev! 🖖
 
-🚀 Atualmente participo do bootcamp Ignite da rocketseat!
-
 ## 📑 Conhecimentos:
 <p align="center">
 <img src="https://raw.githubusercontent.com/BrunoPiresDeOliveira/BrunoPiresDeOliveira/34cc5ce8b7300b904dd754dffc6511dec8fec0dc/assets/html5.svg" width="48"/>
